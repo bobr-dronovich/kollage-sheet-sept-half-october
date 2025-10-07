@@ -1,0 +1,25 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#rel{
+    border: 1px solid pink; 
+    border-radius: 5px;
+    width: 200px;
+    
+}
+.sex{
+    height: 18px;
+    position: relative;
+    margin: 5px;
+}
+.lorem{
+    position: absolute;
+    left: 0px;
+}
+.block{
+    border-radius: 5px;
+    background-color: rgb(255, 196, 250);
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+}
