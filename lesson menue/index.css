@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.text_about_ded_pig{
+    display: inline-block;
+    color: rgb(226, 42, 196);
+    width:800px;
+    height: 252px;
+    align="middle";
+    font-size: 20px
+}
+.chennik{
+    display: inline-block;
+    color: rgb(226, 42, 196);
+    width:500px;
+font-size: xx-large;
+    text-align-last: right;
+    vertical-align: top;
+    font-style: normal;
+    font-style: italic;
+}
+img{
+    float: left;
+}
+
+.card{
+    margin-bottom: 20px;
+}

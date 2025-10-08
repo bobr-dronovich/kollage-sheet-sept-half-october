@@ -1,0 +1,21 @@
+#rel{
+    background-color: pink;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block{
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    vertical-align: top;
+}
+h3{
+    color: rgb(124, 13, 109);
+
+}
+p{
+    color: rgb(255, 255, 255);
+}
+#sert{
+    color: rgb(255, 255, 255);
+    }
