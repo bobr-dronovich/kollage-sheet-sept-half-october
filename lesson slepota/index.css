@@ -1,0 +1,22 @@
+#navigation {
+    display: flex;
+    background-color: pink;
+    padding: 0px 117px;
+    justify-content: space-between;
+
+}
+
+#nav {
+    display: flex;
+}
+
+#logo1 {
+    margin-right: 73px;
+}
+
+.navButton {
+    padding: 33px;
+}
+#SMBlock{
+    &
+}
