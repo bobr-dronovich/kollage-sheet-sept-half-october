@@ -3,20 +3,41 @@
     background-color: pink;
     padding: 0px 117px;
     justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
 #nav {
     display: flex;
+    align-items: center;
 }
 
 #logo1 {
     margin-right: 73px;
+    height: 26px;
 }
 
 .navButton {
     padding: 33px;
 }
-#SMBlock{
-    &
+
+#SMBlock {
+    display: flex ;
+    height: 100%;
+    align-items: center;
+    gap: 34px;
+
+    & img {
+        height: 17px;
+    }
+}
+#headerButton{
+    background-color: #D2E1FF;
+    padding: 20px;
+    display: inline-block;
+    color: #3A79FF;
+}
+#main{
+    background-image: url("logos/hero image.svg");
+    height: 100vh;
 }
